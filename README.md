@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I'm Rupa Sree Guttikonda 👋  
+# I'm Rupa Sree Guttikonda 👋  
 
 👨‍💻 **Introduction**  
 I'm a cybersecurity enthusiast with a strong foundation in **defensive mechanisms** and a growing curiosity about the world of **offensive cybersecurity**. Over time, I’ve honed my skills in identifying, mitigating, and preventing threats, and I’m now eager to explore the offensive side of security to gain a holistic understanding of the field.  
