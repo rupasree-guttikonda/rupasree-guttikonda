@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**rupasree-guttikonda/rupasree-guttikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Rupa Sree Guttikonda 👋  
 
-Here are some ideas to get you started:
+👨‍💻 **Introduction**  
+I'm a cybersecurity enthusiast with a strong foundation in **defensive mechanisms** and a growing curiosity about the world of **offensive cybersecurity**. Over time, I’ve honed my skills in identifying, mitigating, and preventing threats, and I’m now eager to explore the offensive side of security to gain a holistic understanding of the field.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 **What I Bring to the Table**  
+- Expertise in **intrusion detection and prevention systems (IDPS)**.  
+- Proficiency in **SIEM tools** for threat monitoring and log analysis.  
+- Hands-on experience with **vulnerability management** and **endpoint security solutions**.  
+- A solid grasp of **incident response strategies** and **risk assessments**.  
+
+🛠️ **Skills & Tools**  
+- **Languages**: Python, Bash, PowerShell  
+- **Technologies**: Wireshark, Nmap, Metasploit, Burp Suite  
+- **Platforms**: Linux, Windows Server, Cloud Security (AWS, Azure)  
+- **Certifications**: [Your Certifications, e.g., CompTIA Security+, CEH, etc.]  
+
+🚀 **What I'm Working On**  
+- Transitioning into offensive security by mastering **penetration testing** and **ethical hacking** techniques.  
+- Developing projects that simulate real-world attack and defense scenarios.  
+- Working on Incident Response, Disaster Recovery, and Business continuity for Real-Time Threat Intelligence Platform.
+
+💡 **Areas of Interest**  
+- Offensive security tactics, techniques, and procedures (TTPs).  
+- Advanced persistent threats (APTs) and exploit development.  
+- Capture the Flag (CTF) challenges to sharpen practical skills.  
+
+🔭 **Notable Projects**  
+- **Defensive Security Framework**: Built a customizable intrusion detection system with real-time alerting.  
+- **CTF Challenges**: Solved [specific CTF challenges or platforms like Hack The Box/TryHackMe].  
+- **Pentesting Labs**: Created a vulnerable environment to practice offensive security skills.  
+
+📫 **Let’s Connect**  
+- [LinkedIn](https://www.linkedin.com/in/rupa-sree-guttikonda-a24722199/)  
+- [GitHub](https://github.com/rupasree-guttikonda)  
+- [Twitter](https://x.com/GuttikondaRupa)  
+
+🌟 **Fun Fact**  
+The more I learn about securing systems, the more fascinated I am by the challenge of breaking them—ethically, of course!  
