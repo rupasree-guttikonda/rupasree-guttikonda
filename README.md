@@ -35,7 +35,8 @@ I'm a cybersecurity enthusiast with a strong foundation in **defensive mechanism
 📫 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/rupa-sree-guttikonda-a24722199/)  
 - [GitHub](https://github.com/rupasree-guttikonda)  
-- [Twitter](https://x.com/GuttikondaRupa)  
+- [Twitter](https://x.com/GuttikondaRupa)
+- [Portfolio](file:///C:/Users/Rupasree/Downloads/rupasree.guttikonda_portfolio/index.html)
 
 🌟 **Fun Fact**  
 The more I learn about securing systems, the more fascinated I am by the challenge of breaking them—ethically, of course!  
