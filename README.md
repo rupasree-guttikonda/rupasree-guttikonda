@@ -1,17 +1,3 @@
-Based on everything I know about your profile:
-
-* MS Computer Science, UMKC
-* Software Engineer at Saayam
-* Former Full Stack .NET Developer at Jio
-* React.js, TypeScript, C#, .NET Core
-* Azure, Microservices, SQL
-* Data Analytics and ML projects
-* IoT and Security projects
-
-Here's a GitHub README that would look professional and recruiter-friendly.
-
----
-
 # Hi there, I'm Rupa Sree Guttikonda 👋
 
 ### Software Engineer | React.js | .NET Core | Azure | Microservices | Data Analytics
